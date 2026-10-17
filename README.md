@@ -85,7 +85,7 @@ To validate that this skill adheres to the Agent Skills specification:
    ```
 2. Run validation against the skill folder:
    ```bash
-   agentskills validate ./diary-memory
+   agentskills validate .
    ```
 
 Expected output:
